@@ -1,0 +1,58 @@
+body{
+	margin:0px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+	padding:15px 0 0 40px;
+	font-family: 'Comfortaa', cursive;
+	text-align:left;
+}
+
+input[type="text"], select {
+	outline:none;
+	padding:5px;
+	display:block;
+	width:300px;
+	border-radius: 3px;
+	border:1px solid #eee;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: slategrey;
+    font-family: arial;
+}
+
+form {
+    font-size: 15px;
+     font-family: arial;
+    
+    
+}
+
+input[type="submit"], option{
+	padding:10px;
+	color:black;
+	background:#FFB092;
+	width:300px;
+	border:0px;
+	border-radius: 3px;
+	cursor:pointer;
+    font-family: 'Comfortaa', cursive;
+     font-family: verdana;
+}
+
+
+ul, li, a {
+    text-decoration: none;
+    list-style-type: none;
+    padding-bottom: 3px;
+    color: black;
+     font-family: arial;
+    
+}
+
+li a:hover, a:hover {
+    color: coral;
+}
+
+h1, h2, h3, h4 {
+    color: darkslategrey;
+}
